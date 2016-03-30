@@ -6,6 +6,8 @@ This is to help reproduce [this Chrome bug](https://bugs.chromium.org/p/chromium
 
 ![demo](demo.gif)
 
+You don't have to clone this repo, you can view it online [here](https://cdn.rawgit.com/kentcdodds/bug-source-maps/master/index.html)
+
 ## Rebuild the dist:
 
 ```
