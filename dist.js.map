@@ -1,0 +1,1 @@
+{"version":3,"sources":["src.js"],"names":[],"mappings":";;AAAA,SAAS,GAAT,GAAsB;;;AACpB,uBAAQ,GAAR,4BADoB;CAAtB;;AAIA,IAAI,MAAJ,EAAY,IAAZ,EAAkB,YAAlB","file":"dist.js","sourcesContent":["function log(...args) {\n  console.log(...args)\n}\n\nlog('this', 'is', 'sourcemaps')\n"]}
