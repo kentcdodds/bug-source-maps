@@ -2,6 +2,12 @@
 
 This is to help reproduce [this Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=598032)
 
+## FIXED
+
+This appears to have been [fixed](https://bugs.chromium.org/p/chromium/issues/detail?id=598032#c3) in Chrome Canary!
+
+![working](working.gif)
+
 ## To Reproduce:
 
 ![demo](demo.gif)
